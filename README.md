@@ -59,4 +59,11 @@ Solve it for multiple items with different destinations. You can modify the API 
 
 CUERT Autonomous Dev. Team
 
+## A* Algorithm Justification:
+A* algorithm was used to solve this task, here is why:
+Optimality and Efficiency: A* guarantees the shortest path, balancing exploration and exploitation, making it both optimal and efficient for navigating complex environments.
+Heuristic Guidance: Utilizes heuristics to prioritize paths, reducing unnecessary exploration and speeding up the search.
+Obstacle Handling: Effectively navigates around obstacles, ensuring reliable pathfinding in dynamic warehouse environments.
+Versatility: Easily adapts to changes in the environment, accommodating dynamic item locations and multiple destinations.
+These features make A* particularly suitable for the autonomous navigation and path planning required in a warehouse setting.
 
