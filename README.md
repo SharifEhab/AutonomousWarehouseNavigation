@@ -68,3 +68,7 @@ A* algorithm was used to solve this task, here is why:
 
 These features make A* particularly suitable for the autonomous navigation and path planning required in a warehouse setting.
 
+## Learning Resources for A*:
+- Extraordinary youtube tutorials by Sebastian Lague: https://www.youtube.com/watch?v=-L-WgKMFuhE
+- Stanford explaination website: https://theory.stanford.edu/~amitp/GameProgramming/
+
